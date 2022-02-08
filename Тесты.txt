@@ -338,3 +338,77 @@
 
 
 
+<p class="vopros">1.  Найдите сумму первых пяти членов арифметической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/44_1HZEeHIIJBQeOTHNwxyg.png">, если <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/45_xKt2ukGeGN-n08dDJhcy.png">.</p>
+1.. 0
+
+<p class="vopros">2.  В геометрической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/47_o2D9V6n2b1fve5XVj-uz.png">. Найдите знаменатель этой прогрессии.</p>
+2.. -4 или 4
+
+<p class="vopros">3.  Дана арифметическая прогрессия 2,6; 2,3;…Сколько положительных членов она содержит?</p>
+3.. 9
+
+<p class="vopros">4.  Для периодической дроби 0,41(6) найдите несократимую обыкновенную дробь. Запишите разность числителя и знаменателя.</p>
+4.. 7
+
+<p class="vopros">5.  В геометрической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/12_Xhv4pfsNCKAlUgjlbJGP.png">. Найдите знаменатель <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/13_PihcLjTb9UirwuDWKDKD.png">.</p>
+5.. одна третья или минус одна третья
+
+<p class="vopros">6.  Произведение первого и четвёртого членов возрастающей геометрической прогрессии с положительными членами равна 27, а сумма второго и третьего её членов равна 12. Найдите сумму второго и пятого членов прогрессии.</p>
+6.. 84
+
+<p class="vopros">7.  В арифметической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/9_FByhkZyY8mB_mnLO8OG3.png">. На каком месте (укажите номер) находится число 26?</p>
+7.. 38
+
+<p class="vopros">8.  Разность арифметической прогрессии: 6,5; 7,3; 8,1 равна</p>
+8.. 0,8
+
+<p class="vopros">9.  Найдите сумму первых шестнадцати членов арифметической прогрессии, заданной формулой <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/11_ZWONatDpLnNuyRiXN1bL.png"></p>
+9.. 848
+
+<p class="vopros">10.  В арифметической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/10_AlIqMQ4PLvQ3rEwwz-NM.png">. На каком месте находится первое отрицательное число? Найдите это число.</p>	
+10.. – 1,1
+
+<p class="vopros">11.  В арифметической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/37_pa8ZMf3WXh3vKLNesdfd.png">, найдите <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/38_KqIKL4OowZ6f1nUCsXki.png"> если <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/39_WuHXT4NXRo_rs2SdVWXf.png">.</p>
+11.. 5
+
+<p class="vopros">12.  В геометрической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/18_7_IYU0Lf0kwXBIv731QC.png">. Найдите шестой член этой прогрессии.</p>
+12.. пять целых одна третья
+
+<p class="vopros">13.  Вычислите сумму бесконечно убывающей геометрической прогрессии, если первый член равен 4, а знаменатель равен 0,75.</p>
+13.. 16
+
+<p class="vopros">14.  Дано: геометрическая прогрессия <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/40_ZJOmL3fRB47e0Mb8iTa1.png">, <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/41_EW1eETl9m2mTDljMTwvK.png">. Какой цифрой оканчивается <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/42_m-K_DFvBpD1gl8VI5Wh1.png">?</p>
+14.. 8
+
+<p class="vopros">15.  Дана арифметическая прогрессия <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/46_uIQngTbXNlhCJsFBBaiN.png">. Её разность равна</p>
+15.. – 0,7
+
+<p class="vopros">16.  Треугольник ABC подобен треугольнику <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/31_xgpMyU6_Ck56-syUWGcc.png">– медианы, причём AD в 3 раза больше <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/32_n-cJkZ6xNyKhO87WDLtX.png">. Найдите отношение периметров треугольников ABC и <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/33_muiW2MvlnSVDEMYBZA6s.png">.</p>
+16.. 3
+
+<p class="vopros">17.  В геометрической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/24_zOG-mh8TwanCy7SVWLiR.png"> и <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/25_Nvte6sTbLm-Y16GfCLBF.png">. Найдите сумму пяти первых членов этой прогрессии.</p>
+17.. 48,4
+
+<p class="vopros">18.  Пропущенный член арифметической прогрессии: 6; …;14;18;22 равен</p>
+18.. 10
+
+<p class="vopros">19.  В прямоугольном треугольнике <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/34_wHBVyv4v_N-qYeLA8rHc.png">, AC=6см, AB=9см, CD - высота. Найдите BD.</p>
+19.. 5 см
+
+<p class="vopros">20.  В арифметической прогрессии<img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/1_II9vJCBoBtFp1AMZU4ml.png"> и <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/2_EzbBsuYh8HQm4dS4_wwy.png">. Найдите d и <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/3_4lMt2OEWYy8-Tp66QUrR.png">.</p>
+20.. d = 1,2иа^1 = 3,9
+
+<p class="vopros">21.  Найдите первый член арифметической прогрессии, если <img src="/images/ma9_21ru_rlxcJHDC8v5aQ9z4puCf/1_wdPnb1tzPEgohUQqu5QZ.png"> и <img src="/images/ma9_21ru_rlxcJHDC8v5aQ9z4puCf/2_lM0DjDI4kBUHAB3Mea80.png">.</p>
+21.. 4
+
+<p class="vopros">22.  Чему равна сумма первых четырёх членов геометрической прогрессии <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/35_2zIpvFSTErlpeac2ydA4.png">, если <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/36_YzWTS1PLDfV8YDTkIrpD.png">, а знаменатель равен 3?</p>
+22.. 320
+
+<p class="vopros">23.  Дано: <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/28_e7OZl4l1qKrUWx2vXx6m.png"> - геометрическая прогрессия <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/29_hOFIjUomQG-Zla2VWssF.png">. Какой цифрой оканчивается <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/30_8Ges4GoUVufV-JoOHUYT.png">?</p>
+23.. 4
+
+<p class="vopros">24.  В геометрической прогрессии со знаменателем <img src="/images/mat9_2ru_7hYxDoAx8O6jUSnmMkDC/43_g6wMH6qDV9ZlYhLsYKuk.png"> сумма первых пяти членов равна 155. Найдите шестой член этой прогрессии.</p>
+24.. 160
+
+<p class="vopros">25.  В геометрической прогрессии третий член равен 4, а четвёртый равен 8. Найти произведение первого и пятого членов.</p>
+25.. 16
